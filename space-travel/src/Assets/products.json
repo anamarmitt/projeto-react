@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "name": "Moon and Mars",
+    "price": 10000,
+    "imageUrl": "https://moon.nasa.gov/system/news_items/main_images/56_176_moon_2018-04-23-Tom_Campbell_1600.jpg",
+    "imageAlt": "Half shadowed full Moon Picture",
+    "distance": 5
+  },
+  {
+    "id": 2,
+    "name": "Solar System (Earth to Pluto)",
+    "price": 100000,
+    "imageUrl": "https://picsum.photos/200/200",
+    "distance": 628
+  },
+  {
+    "id": 3,
+    "name": "Sargitarius A",
+    "price": 1000000,
+    "imageUrl": "https://picsum.photos/200/200",
+    "distance": 26.0
+  }
+]
